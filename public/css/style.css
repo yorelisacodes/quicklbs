@@ -1,0 +1,9 @@
+
+
+body > div > div > div:nth-child(1){
+  width:40%;
+}
+
+body > div > div > div.col-3.mt-5{
+  width:40%;
+}
